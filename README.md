@@ -13,5 +13,9 @@
 <h2 align="center">You can reach me at :alien: </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/tinh-nguyen-3143891bb/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Kiet's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Tinh's LinkedIn Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://www.facebook.com/tinh.nguyenvan3012">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Tinh's LinkedIn Profile" height="30" width="30">
   </a>
