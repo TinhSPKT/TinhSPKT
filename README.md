@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about new languages or Os such as Linux, Python, C#, Css, Js...
 - 💬 Ask me about something related to C/C++/Python
 - ⚡ Fun fact: I :heart: :dog:, travel and sport.
-- 😄 Website: https://TinhNguyen.github.io/
+- 😄 Website: (https://tinhspkt.github.io/)
 <h2 align="center">Top languages :tongue: 💻</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinhspkt&langs_count=10&theme=tokyonight&layout=compact"></p>
 <h2 align="center">Github stats :bar_chart: 👨‍💻 🛠</h2>
